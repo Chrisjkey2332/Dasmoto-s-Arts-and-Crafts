@@ -1,0 +1,44 @@
+/* {
+    border: red solid 1px;
+}*/
+
+Header {
+    background-image: url(./Static/colorful-tile.jpeg);
+    color: khaki;
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    margin: auto;
+    text-align: center;
+}
+
+.title {
+    width: 100%;
+    margin: 10px;
+}
+
+.section_title {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+#Brushes {
+    background-color: mediumspringgreen;
+}
+
+#Frames {
+    background-color: lightcoral;
+}
+
+#Paint {
+    background-color: skyblue;
+}
+
+a {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+    text-decoration: none;
+}
